@@ -1,0 +1,21 @@
+section {
+    height: 545px;
+    background-image: url(../Images/PUT-YOUR-IMAGE-HERE.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    margin-bottom: 65px;
+}
+
+.watch {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 545px;
+}
+
+.watch p {
+    text-transform: uppercase;
+    font-size: 16px;
+}
